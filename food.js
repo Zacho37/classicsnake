@@ -9,7 +9,7 @@ export function update() {
     if (onSnake(food)){
         expandSnake(EXPANSION_RATE)
         food = getRandFoodPos()
-        score += 10
+        score += 1
         document.getElementById('score').innerText = score
     }
 }
