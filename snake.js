@@ -13,31 +13,31 @@ export function update() {
     snakeBody[0].y += inputDirection.y
 
     switch(document.getElementById('score').textContent){
-        case '10':
+        case '3':
             SNAKE_SPEED = 8
             break
-        case '100':
+        case '33':
             SNAKE_SPEED = 10
             break
-        case '150':
+        case '50':
             SNAKE_SPEED = 12
             break
-        case '200':
+        case '67':
             SNAKE_SPEED = 14
             break
-        case '250':
+        case '80':
             SNAKE_SPEED = 12
             break
-        case '300':
+        case '30':
             SNAKE_SPEED = 10
             break
-        case '400':
+        case '133':
             SNAKE_SPEED = 14
             break
-        case '450':
+        case '167':
             SNAKE_SPEED = 12
             break
-        case '500':
+        case '180':
             SNAKE_SPEED = 8
             break
     }

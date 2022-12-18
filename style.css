@@ -30,7 +30,10 @@ body {
     background-color: yellow;
   margin: 2px;
 }
-
+.power{
+    background-color: blue;
+    margin: 2px;
+}
 .food{
     background-color: red;
     margin: 2px;
