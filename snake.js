@@ -28,7 +28,7 @@ export function update() {
         case '80':
             SNAKE_SPEED = 12
             break
-        case '30':
+        case '100':
             SNAKE_SPEED = 10
             break
         case '133':
