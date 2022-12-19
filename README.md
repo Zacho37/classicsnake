@@ -1,4 +1,5 @@
 # classicsnake
-basic snake game made for fun
+Opgradering af Snake game lavet af DavidGalenko
 
-https://snakebydavid.netlify.app/
+https://github.com/DavidGalenko/classicsnake (link til original)
+
